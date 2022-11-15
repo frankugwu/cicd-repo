@@ -1,4 +1,4 @@
-FROM node:18.12.0
+FROM node:16.1.0
 
 
 # Setting working directory. All the path will be relative to WORKDIR
